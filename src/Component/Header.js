@@ -11,8 +11,7 @@ const Header = () => {
                           <h3>Food Delivery</h3>
                           <h1>The Veg Tickle</h1>
                           <p>
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi
-                            minus ut mollitia error molestiae quia.
+                            Checkout our all foods and order quickly we are always ready to supply our clients orders
                           </p>
                           <div className="banner__btn">
                             <a href="" className="btn btn-smart">

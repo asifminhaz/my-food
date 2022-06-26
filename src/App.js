@@ -6,7 +6,9 @@ import Footer from './Component/Footer';
 import Header from './Component/Header';
 import Menu from './Component/Menu';
 import Price from './Component/Price';
+import Review from './Component/Review';
 import Shop from './Component/Shop';
+import Total from './Component/Total';
 
 
 function App() {
@@ -18,6 +20,8 @@ function App() {
       <Menu />
       <Clients />
       <Price />
+      <Total></Total>
+      <Review></Review>
       <Footer/>
     </div>
   );

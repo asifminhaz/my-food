@@ -15,7 +15,7 @@ const Price = () => {
                             the Toppings for Chicago pizza are ground beef, sausage, pepperoni, onion, mushrooms, and green peppers, placed underneath the tomato sauce.
                             </p>
                             <p className="price_rs">$60.00</p>
-                            <button type="button" class="text-white bg-gradient-to-br from-purple-600 to-blue-500 hover:bg-gradient-to-bl focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2">Shop Now</button>
+                            <button type="button" class="text-white bg-gradient-to-br from-pink-500 to-orange-400 hover:bg-gradient-to-bl focus:ring-4 focus:outline-none focus:ring-pink-200 dark:focus:ring-pink-800 font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2">Shop Now</button>
                           </div>
                         </div>
               
@@ -29,7 +29,7 @@ const Price = () => {
                             A traditional ground beef burger can be a good, high-protein meal—especially if it's grass-finished beef.
                             </p>
                             <p className="price_rs">$25.00</p>
-                            <button type="button" class="text-white bg-gradient-to-br from-purple-600 to-blue-500 hover:bg-gradient-to-bl focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2">Shop Now</button>
+                            <button type="button" class="text-white bg-gradient-to-br from-pink-500 to-orange-400 hover:bg-gradient-to-bl focus:ring-4 focus:outline-none focus:ring-pink-200 dark:focus:ring-pink-800 font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2">Shop Now</button>
                           </div>
                         </div>
               
@@ -43,7 +43,7 @@ const Price = () => {
                             The chicken sandwich is especially well loved, thanks to the fact that it has been deep fried and comes with a bunch of cheese to make it melt in your mouth.
                             </p>
                             <p className="price_rs">$130.00</p>
-                            <button type="button" class="text-white bg-gradient-to-br from-purple-600 to-blue-500 hover:bg-gradient-to-bl focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2">Shop Now</button>
+                            <button type="button" class="text-white bg-gradient-to-br from-pink-500 to-orange-400 hover:bg-gradient-to-bl focus:ring-4 focus:outline-none focus:ring-pink-200 dark:focus:ring-pink-800 font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2">Shop Now</button>
                           </div>
                         </div>
               
@@ -57,7 +57,7 @@ const Price = () => {
                             Chicago dogs are layered with yellow mustard, dark green relish, chopped raw onion, pickle spear, sport peppers, tomato slices and topped with a dash of celery salt and served in a poppy seed bun.
                             </p>
                             <p className="price_rs">$24.00</p>
-                            <button type="button" class="text-white bg-gradient-to-br from-purple-600 to-blue-500 hover:bg-gradient-to-bl focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2">Shop Now</button>
+                            <button type="button" class="text-white bg-gradient-to-br from-pink-500 to-orange-400 hover:bg-gradient-to-bl focus:ring-4 focus:outline-none focus:ring-pink-200 dark:focus:ring-pink-800 font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2">Shop Now</button>
                           </div>
                         </div>
               
@@ -71,7 +71,7 @@ const Price = () => {
                            Buffalo wings!! They’re smothered in an easy homemade buffalo sauce. So simple to make, they’ll be a total hit for any party table! They’re crispy outside with tender and juicy meat inside and generously coated with the famous buffalo sauce
                             </p>
                             <p className="price_rs">$21.00</p>
-                            <button type="button" class="text-white bg-gradient-to-br from-purple-600 to-blue-500 hover:bg-gradient-to-bl focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2">Shop Now</button>
+                            <button type="button" class="text-white bg-gradient-to-br from-pink-500 to-orange-400 hover:bg-gradient-to-bl focus:ring-4 focus:outline-none focus:ring-pink-200 dark:focus:ring-pink-800 font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2">Shop Now</button>
                            
                           </div>
                         </div>
@@ -86,7 +86,7 @@ const Price = () => {
                             It actually refers to the chicken pieces fried with rice flour for a decadent, extra crispy crust. While you can simply dip the chicken into the sauce, a popular option is to have the chicken pre-coated with spicy.
                             </p>
                             <p className="price_rs">$34.00</p>
-                            <button type="button" class="text-white bg-gradient-to-br from-purple-600 to-blue-500 hover:bg-gradient-to-bl focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2">Shop Now</button>
+                            <button type="button" class="text-white bg-gradient-to-br from-pink-500 to-orange-400 hover:bg-gradient-to-bl focus:ring-4 focus:outline-none focus:ring-pink-200 dark:focus:ring-pink-800 font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2">Shop Now</button>
                           </div>
                           
                         </div>
