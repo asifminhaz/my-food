@@ -20,8 +20,9 @@ function App() {
       <Menu />
       <Clients />
       <Price />
-      <Total></Total>
+      
       <Review></Review>
+      <Total></Total>
       <Footer/>
     </div>
   );
