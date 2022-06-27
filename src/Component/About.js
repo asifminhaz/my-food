@@ -2,7 +2,8 @@ import React from 'react';
 
 const About = () => {
           return (
-                    <div className="about">
+            <div id='about-us'>
+                    <div  className="about">
       <div className="container">
         <div className="row">
           <div className="col-6 p-25">
@@ -24,6 +25,7 @@ const About = () => {
           </div>
         </div>
       </div>
+    </div>
     </div>
           );
 };

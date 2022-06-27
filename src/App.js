@@ -20,7 +20,6 @@ function App() {
       <Menu />
       <Clients />
       <Price />
-      
       <Review></Review>
       <Total></Total>
       <Footer/>

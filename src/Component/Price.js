@@ -2,7 +2,7 @@ import React from 'react';
 
 const Price = () => {
           return (
-                    <div className="prices">
+                    <div id='foods' className="prices">
                     <div className="container">
                       <div className="row">
                         <div className="col-4">

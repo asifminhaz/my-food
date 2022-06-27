@@ -5,7 +5,7 @@ const Total = () => {
                             
 <>
 
-<div className="about">
+<div id='contact-us' className="about">
       <div className="container">
         <div className="row">
           <div className="col-6 p-25">
